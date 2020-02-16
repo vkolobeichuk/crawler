@@ -1,0 +1,15 @@
+CRAWLER
+
+
+
+DESCRIPTION
+Grab element by xpath
+
+
+INSTALLATION
+git pull origin https://github.com/vkolobeichuk/crawler.git
+pip install -r requirements.txt
+
+
+RUN
+python main.py
